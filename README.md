@@ -1,8 +1,8 @@
 # Cryptocurrencies Analysis with Unsupervised MachineLearning
 
-I was tasked with reviewing the currently trading cryptocurrancies on the market. This meant that I took a large data set of 100s of current currancies and distilling this down to the ones that are actively trading investments. Most of this was done using python and pandas library tools. 
+I was tasked with reviewing the currently trading cryptocurrencies on the market. This meant that I took a large data set of 100s of current currencies and distilling this down to the ones that are actively trading investments. Most of this was done using python and pandas library tools. 
 
-Once I was down to the currently available currancies on investment markets I then created several visuals
+Once I was down to the currently available currencies on investment markets I then created several visuals
   - Elbow Curve Plot
   - 3D Scatter Plot
   - 2D Scatter Plot
